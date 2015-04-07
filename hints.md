@@ -1,4 +1,5 @@
-Hints:
+#Hints:
+
 1. Command + Spacebar will open the spotlight search
 2. Mkdir will create a new directory.
 3. cd mouselss
