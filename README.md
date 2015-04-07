@@ -1,6 +1,6 @@
 #Mouseless challenge:
 
-You are all now developers. In the same way that a musician's instrument is often referred to as an extension of their body, a programmers computer should extend the programmer. Speed, comfort and your ability to manipulate your machine are all things that are key for successful programmers. This exercise is intended to make you feel more comfortable using your keyboard and relying less on your mouse. Follow the steps below. Hints are provided to help you if you get stuck. The challenge, if you choose to accept it, is to complete this entire exercise without using the mouse at all. DON'T USE YOUR MOUSE.
+###You are all now developers. In the same way that a musician's instrument is often referred to as an extension of their body, a programmers computer should extend the programmer. Speed, comfort and your ability to manipulate your machine are all things that are key for successful programmers. This exercise is intended to make you feel more comfortable using your keyboard and relying less on your mouse. Follow the steps below. Hints are provided to help you if you get stuck. The challenge, if you choose to accept it, is to complete this entire exercise without using the mouse at all. DON'T USE YOUR MOUSE.
 
 1. Open terminal and navigate to a desired location. 
 2. Make a new directory called mouseless. 
@@ -28,3 +28,7 @@ You are all now developers. In the same way that a musician's instrument is ofte
 24. Let's change the word "song" to "jam" on all ordered lists.
 25. Let's make all instances of the word "jam" into capital letters.
 26. Let's comment out the last list item
+
+##ADDITIONAL RESOURCES:
+http://sublime-text-unofficial-documentation.readthedocs.org/en/latest/reference/keyboard_shortcuts_osx.html
+https://www.shortcutfoo.com/
