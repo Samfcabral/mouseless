@@ -22,12 +22,13 @@ In the same way that a musician's instrument is often referred to as an extensio
 18. Go to the Google search result you had open and close the window. Note: close the window only, not the entire program.
 19. Go back to sublime and add a class called taco to the unordered list items.
 20. Add an id for each line item. Call it the same as you will each color. What's the most efficient way of doing this? 
-21. Make the screen a full screen - NO MOUSE!!!
-22. Create an ordered list inside your body tag but outside your ul
-23. Create 10 list items and call them "That's my song "
-24. Let's change the word "song" to "jam" on all ordered lists.
-25. Let's make all instances of the word "jam" into capital letters.
-26. Let's comment out the last list item
+21. Move to the css file and add styling.
+22. Make the screen a full screen - NO MOUSE!!!
+23. Create an ordered list inside your body tag but outside your ul
+24. Create 10 list items and call them "That's my song "
+25. Let's change the word "song" to "jam" on all ordered lists.
+26. Let's make all instances of the word "jam" into capital letters.
+27. Let's comment out the last list item
 
 ##ADDITIONAL RESOURCES:
 http://sublime-text-unofficial-documentation.readthedocs.org/en/latest/reference/keyboard_shortcuts_osx.html

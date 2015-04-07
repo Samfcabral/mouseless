@@ -20,6 +20,7 @@
 18. Command + shift + [ or ] to navigate through windwons.
 19. Command + Tab plus `<ul class="taco">`
 20. Select one of the `<li>` by pressing shift and using the arrows to highlight. Then type 'command D' to select all li's. Then type id="". Go back and fill them in.
+21. Hit 'command + shift + [ or ] to move around open files. If the file is not already open type 'command + p' and search for file. Once you find the file click enter to open it.
 21. Command + Control + Shift + F
 22. Just type it out
 23. Create one and then type 'Command + shift + D'
